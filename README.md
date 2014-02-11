@@ -14,3 +14,7 @@ Preliminary abstraction has been performed to caputre the generated applescript 
 Your OmniGraffle needs to be configured to open a default window with a blank template - else the script will fail.
 
 `ruby grittle.rb .`
+
+## SVG Vizualization
+
+If you're set on other roads to Rome, consider the [rubyviz](https://github.com/clbustos/rubyvis) library, which is a prot of ProtoVis, which later became D3.js
