@@ -1,4 +1,4 @@
-## Grittle - Git Visualisations for OmniGraffle
+## Grittle - Git Visualisations, with OmniGraffle
 
 * Everything is pre-alpha
 * Performance patches _very_ welcome.
